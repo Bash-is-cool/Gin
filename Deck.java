@@ -34,6 +34,6 @@ public class Deck
 
     public String toString()
     {
-        return "Is full deck: " + isFullDeck + "/nHas Jokers: " + hasJokers + "/nGame number: " + game + "/nPlayer 1 has " + points1 + "points /nPlayer 2 has " + points2 + "points /nthe game ends at " + endGame + " points."
+        return "Is full deck: " + isFullDeck + "\nHas Jokers: " + hasJokers + "/\nGame number: " + game + "\nPlayer 1 has " + points1 + "points \nPlayer 2 has " + points2 + " points \nThe game ends at " + endGame + " points.";
     }
 }

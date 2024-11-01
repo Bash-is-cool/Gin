@@ -5,7 +5,7 @@
  * @author Alex Silverman
  * @version 1.0 10/31/2024
  */
-public class Cards
+public class Hands
 {
     // instance variables - replace the example below with your own
     private int x;
@@ -13,7 +13,7 @@ public class Cards
     /**
      * Constructor for objects of class Cards
      */
-    public Cards()
+    public Hands()
     {
         
     }
