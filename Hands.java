@@ -1,3 +1,5 @@
+import javax.swing.*;
+import java.awt.*;
 
 /**
  * Holds players hands
@@ -5,6 +7,7 @@
  * @author Alex Silverman
  * @version 1.0 10/31/2024
  */
+
 public class Hands
 {
     // instance variables - replace the example below with your own
